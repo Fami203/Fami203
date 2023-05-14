@@ -32,6 +32,6 @@ I am engaged in programming for 2 years, started with java then switched to web 
 ### Socials
 
 <p align="left"><a href="https://www.linkedin.com/in/danil-slyusar-404194275/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://t.me/DanKol" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/600px-Telegram_Messenger.png" width="32" height="32" /></a>
 <a href="https://www.tiktok.com/@fami_3" target="_blank" rel="noreferrer"><img src="https://freelogopng.com/images/all_img/1655891735tiktok-png-icon.png" width="32" height="32" /></a>
 </p>
-
