@@ -1,4 +1,4 @@
-Hi 👋 My name is Danil
+Hi 👋 I'm Danil
 ======================
 
 I am engaged in programming for 2 years, started with java then switched to web development, looking for a community of people for rapid development
