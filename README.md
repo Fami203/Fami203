@@ -3,7 +3,7 @@ Hi 👋 My name is Danil
 
 I am engaged in programming for 2 years, started with java then switched to web development, looking for a community of people for rapid development
 
-* ✉️  You can contact me at [danilslyusar203@gmail.com](mailto:danilslyusar203@gmail.com)
+* ✉️  Gmail [danilslyusar203@gmail.com](mailto:danilslyusar203@gmail.com)
 
 ### Skills
 
